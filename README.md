@@ -10,5 +10,5 @@ In order to model sport popularity, data is pulled from Google Trends. Google Tr
 analytical tool that allows users to compare the popularity of search terms over time. Google Trends can be used to gain insights into popularity that may not otherwise be noticed, as shown in the 
 recent 2016 presidential election (Rogers, 2016). Data is available from 2004 to the present, and 
 we chose to use the full range of data available to us. In this project, I extracted worldwide data to give more insights.
-* Trends of various leaguee(NBA,NFL,LaLiga,Premier League)
+# Trends of various leaguee(NBA,NFL,LaLiga,Premier League)
 ![image](https://user-images.githubusercontent.com/43057462/133722099-b8aa4f4d-97c5-4ad0-a1c7-e16123807a32.png)

@@ -12,3 +12,5 @@ recent 2016 presidential election (Rogers, 2016). Data is available from 2004 to
 we chose to use the full range of data available to us. In this project, I extracted worldwide data to give more insights.
 ## Trends of various leagues(NBA,NFL,LaLiga,Premier League)
 ![image](https://user-images.githubusercontent.com/43057462/133722099-b8aa4f4d-97c5-4ad0-a1c7-e16123807a32.png)
+
+![image](https://user-images.githubusercontent.com/43057462/133724546-bbe4ac73-2633-4a66-95f5-277774dffb36.png)
